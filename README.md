@@ -1,2 +1,2 @@
 # Google
-First html/css project for the odin project.. just playing around! Building a Fake google homepage. 
+First Html and Css project for the Odin project.. just playing around! Building a Fake Google homepage. 
